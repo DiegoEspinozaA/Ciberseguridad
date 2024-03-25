@@ -1,0 +1,13 @@
+PENTESTING, FOOTPRINTING, FINGERPRINTING
+
+Hispasec - Aplicacion que envia alerta de vulnerabilidades encontradas todos los dias.
+¿Que es un falso positivo en ciberseguridad?
+
+Cual es el ataque mas comun que se le da a un servidor de correo que esta abierto - (Relay) Lo pongo como servidor de correo propio y envio correos desde ahi, el problema es cuando se utiliza de forma masiva, enviar correos masivos de marketing, pornografia, etc..
+
+Que es un NAT (Pregunta de prueba)- Network Address Translation
+
+Pasamos a la red por un ROUTER quien nos representa en el internet con su IP publica, el ROUTER tiene al menos 2 entradas la LAN y la WAN, la LAN muchas veces tiene antes un FIREWALL e incluso un DNZ.
+El Router llega hasta la capa 3 y toman desiciones en base a direcciones ip o logicas
+El Switch trabaja en la capa 2 y toma desiciones en base a direcciones MAC o fisicas 
+El Firewall ataca o controla todas las capas. (Le puedes decir hasta controlame el http)
